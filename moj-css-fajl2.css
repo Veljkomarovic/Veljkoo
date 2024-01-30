@@ -1,0 +1,72 @@
+body{
+	background-image:url(veljkomarovic18.png) ;
+	margin: 0px;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}	
+
+.navbar ul{
+	color: white;
+	list-style-type: none;
+	background-color: #CDA349;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	font-family: Arial;
+}
+.navbar a{
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+	text-align: center;
+}
+.navbar a:hover{
+	background-color: black;
+	color: #B8860B;
+}
+.navbar li{
+	float: left;
+}
+.projects {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.5s;
+}
+.projects:hover{
+	transform: scale(1.1);
+}		
+.logos {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.5s;
+}
+.logos:hover{
+	transform: scale(1.1);
+}		
+.jerseys {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.5s;
+}
+.jerseys:hover{
+	transform: scale(1.1);
+}		
+.contact {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.5s;
+}
+.contact:hover{
+	transform: scale(1.1);
+}		
+h1 {
+	text-align: center;
+	color: #CDA248;
+	font-family: Arial;
+	list-style-type: none;
+}		

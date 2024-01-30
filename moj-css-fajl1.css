@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+}
+svg{
+	margin: 200px;
+	width: 500px;
+}
+.kvadrat{
+	fill:white;
+	transition: 0.2s;
+}
+.kvadrat:hover {
+	fill:grey;
+	rotate: -9deg;
+}
+.krug1{
+	fill:none;
+	stroke:black;
+	stroke-width:5;
+	stroke-miterlimit:10;
+}
+.krug1:hover {
+	fill:none;
+	stroke:darkgrey;
+	stroke-width:10;
+	stroke-miterlimit:10;
+}
+.krug2{
+	fill:#CDA349;
+}
+.krug2:hover {
+	fill:darkred;
+}

@@ -1,0 +1,73 @@
+body{
+	background-image:url(veljkomarovic21.png) ;
+	margin: 0px;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}	
+
+.navbar ul{
+	color: white;
+	list-style-type: none;
+	background-color: #CDA349;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	font-family: Arial;
+}
+.navbar a{
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+	text-align: center;
+}
+.navbar a:hover{
+	background-color: black;
+	color: #B8860B;
+}
+.navbar li{
+	float: left;
+}
+h1 {
+	margin: 20px;
+	color: #CDA248;
+	font-family: Arial;
+}
+h2 {
+	margin-left: 30px;
+	color: #CDA248;
+	font-family: Arial;
+}
+.loznica{
+	display: block;
+	margin: auto;
+}
+p {
+	font-size: 35px;
+	font-family: Arial;
+	color: white;
+	margin: 50px;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	transition: 0.5s;
+}
+img:hover{
+	transform: scale(1.1);
+}
+.balkan p{
+	font-size: 60px;
+}	
+.jedan {
+	color: red;
+}
+h4 {
+	color: #CDA248;
+	font-family: Arial;
+}
+h5 {
+	color: #CDA248;
+	font-family: Arial;
+}
